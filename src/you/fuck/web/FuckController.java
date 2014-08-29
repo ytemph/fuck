@@ -1,4 +1,4 @@
-package you.fuck;
+package you.fuck.web;
 
 public class FuckController {
 
